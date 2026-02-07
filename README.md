@@ -30,9 +30,6 @@ LittleLibrary operates under the Singapore Library Board (SLB) and is undergoing
 │ │
 │ ├── specification/
 │ │ └── ICT2113_P2-1166A_Project_Specification.pdf
-│ │
-├── traceability/
-│ │ └── requirements_traceability.md
 │
 ├── models/
 │ ├── clarify/
@@ -77,18 +74,7 @@ LittleLibrary operates under the Singapore Library Board (SLB) and is undergoing
 
 ---
 
-## 5. Traceability
-
-Traceability between original Project Specification requirements, BCIC analysis outcomes, and corrected SRS-ready requirements is maintained via artefacts located in:
-
-docs/traceability/
-
-
-This ensures accountability, auditability, and controlled evolution of requirements throughout the project lifecycle.
-
----
-
-## 6. Methodology
+## 5. Methodology
 
 This project applies the **BCIC analysing method** and **Internal Incongruous Requirements Checklist (IRC)** to ensure that requirements are:
 - Clear
@@ -98,7 +84,7 @@ This project applies the **BCIC analysing method** and **Internal Incongruous Re
 
 ---
 
-## 7. Notes
+## 6. Notes
 
 - This repository separates **analysis artefacts** from **implementation assets** to prevent contamination of requirements by downstream design or coding decisions.
 - Quantitative performance thresholds and design details are introduced only during appropriate lifecycle phases.
