@@ -40,7 +40,7 @@ LittleLibrary operates under the Singapore Library Board (SLB) and is undergoing
 │ │ └── use_case_diagram.png
 │ │
 │ └── data-dictionary/
-│ └── data_dictionary.md
+│ └── LibraryManagementSystem_DataDictionary.xlsx
 │
 ├── src/
 │ └── Python/Django application source code
