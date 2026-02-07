@@ -32,8 +32,7 @@ LittleLibrary operates under the Singapore Library Board (SLB) and is undergoing
 │ │ └── ICT2113_P2-1166A_Project_Specification.pdf
 │ │
 ├── traceability/
-│ │ └── 
-requirements_traceability.md
+│ │ └── requirements_traceability.md
 │
 ├── models/
 │ ├── clarify/
