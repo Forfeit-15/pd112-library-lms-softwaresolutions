@@ -26,15 +26,16 @@ LittleLibrary operates under the Singapore Library Board (SLB) and is undergoing
 ```
 ├── docs/
 │ ├── analysis/
-│ │ └── ICT2113_P2-1166A_Analysis_Report.pdf
+│ │ ├── ICT2113_P2-1166A_Analysis_Report.pdf
+│ │ └── IRC.jpg
 │ │
 │ ├── specification/
 │ │ └── ICT2113_P2-1166A_Project_Specification.pdf
 │
 ├── models/
-│ ├── clarify/
-│ │ ├── catalogue_responsive_sketch.jpg
-│ │ └── profile_visibility_sketch.jpg
+│ ├── analysis-clarify/
+│ │ ├── Grid vs Column View.jpg
+│ │ └── User vs Normal View.jpg
 │ │
 │ ├── use-cases/
 │ │ └── use_case_diagram.png
